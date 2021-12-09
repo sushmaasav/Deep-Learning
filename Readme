@@ -1,0 +1,4 @@
+Fake Vs Real Image Detection
+The goal of this hackathon is to build a Deep learning model from scratch and compare it with that of using pretrained models that can accurately distinguish between fake and real images using the provided images for training. The images provided belong to two classes for images that were actually clicked using cameras vs images that were artificially created using Generative Adversarial Networks(GANs).
+This dataset comprises 1709 train images segregated into separate folders for fake images and real images and 332 test images.
+https://drive.google.com/drive/folders/1-1rguIvAQtWJiMA2cF_9q4baD3Cyzq1A?usp=sharing - path to download the dataset
